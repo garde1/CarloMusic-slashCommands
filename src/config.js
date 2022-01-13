@@ -1,7 +1,7 @@
 module.exports = {
-    token: "",
-    prefix: "",
-    ownerID: "",
+    token: "OTMxMTAzNzMwNDQxNTMxNDYy.Yd_j7A.AzcpYnlq2rKGLvXlz3muvuPe-yI",
+    prefix: "-",
+    ownerID: "857553052340453377",
     SpotifyID: "",
     SpotifySecret: "",
     mongourl: "",
